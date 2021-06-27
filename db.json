@@ -1,5 +1,4 @@
 {
-  {
   "users": [{
     "firstName": "John",
     "lastName": "Doe",
@@ -10,5 +9,4 @@
     "lastName": "Doe",
     "age": 24
 }]
-}
 }
